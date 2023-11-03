@@ -4,4 +4,5 @@ matplotlib
 datetime
 scikit-learn
 graphviz
-```
+seaborn
+scikit-learn-extra
