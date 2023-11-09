@@ -6,3 +6,5 @@ scikit-learn
 graphviz
 seaborn
 scikit-learn-extra
+minisom
+sklearn_som
